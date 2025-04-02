@@ -4,7 +4,7 @@
 <p>I am Fernando, but everyone call me Fer. I am a software engineer with 10 years of experience in web development.</p>
 <p>I have been creating web apps using Django, Flask and FastAPI for the backend and React for the frontend. I enjoy learning new technologies and solving problems.</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://es.linkedin.com/in/fernando-cillero-gonz%C3%A1lez/)](www.linkedin.com/in/fernando-cillero-gonzález-05260164)
+[![Linkedin Badge](https://img.shields.io/badge/-Fernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://es.linkedin.com/in/fernando-cillero-gonz%C3%A1lez/)](https://www.linkedin.com/in/fernando-cillero-gonzález-05260164)
 
 ## ⚡ Technologies
 
